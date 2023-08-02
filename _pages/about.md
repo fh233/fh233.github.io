@@ -89,10 +89,9 @@ gait/posture detection and prediction)
 
 - T. Zheng, F. Han, and J. Yi (2023) Design and Control of An Agricultural Robot for Turf Grass Inspection. 2023 Modeling, Estimation and Control Conference. (*Accepted*)
 
-<p>
 <iframe width="160" height="90" src="https://www.youtube.com/embed/cyA_f5utthc">
 </iframe>
-<br /><p>
+<br />
 
 
 - F. Han, X. Huang, Z. Wang, J. Yi and T. Liu, "Autonomous Bikebot Control for Crossing Obstacles With Assistive Leg Impulsive Actuation," in IEEE/ASME Transactions on Mechatronics, vol. 27, no. 4, pp. 1882-1890, Aug. 2022. <a href="https://ieeexplore.ieee.org/abstract/document/9781431/"> Link</a>
@@ -107,9 +106,11 @@ gait/posture detection and prediction)
 
 <div class='paper-box-text' markdown="1">
 
-<b>
+<p>
 <b> Learning-Based Motion Pattern Recogniztion and Control </b>
 <p></br>
+
+
 - T. Yigit, F. Han, E. Rankins, J. Yi, K. H. McKeever and K. Malinowski, "Wearable Inertial Sensor-Based Limb Lameness Detection and Pose Estimation for Horses," in IEEE Transactions on Automation Science and Engineering, vol. 19, no. 3, pp. 1365-1379, July 2022. <a href="https://ieeexplore.ieee.org/abstract/document/9743494"> Link</a>
 
 
