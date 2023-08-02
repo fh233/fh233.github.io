@@ -80,16 +80,13 @@ gait/posture detection and prediction)
 
 <b> Cordinated Control of Mobile Robot </b><br /> 
 
-
 - P. Wang, F. Han, and Yi, Jingang, "Gyroscopic Balancer-Enhanced Motion Control Of An Autonomous Bikebot," in Journal of Dynamic Systems, Measurement, and Control, pp. 1-15, 2023. <a href="https://asmedigitalcollection.asme.org/dynamicsystems/article/doi/10.1115/1.4063014/1164571"> Link</a>
-
 
 
 - T. Zheng, F. Han, and J. Yi (2023) Design and Control of An Agricultural Robot for Turf Grass Inspection. 2023 Modeling, Estimation and Control Conference. (*Accepted*)
 
 <iframe width="160" height="90" src="https://www.youtube.com/embed/cyA_f5utthc">
 </iframe>
-
 
 
 - F. Han, X. Huang, Z. Wang, J. Yi and T. Liu, "Autonomous Bikebot Control for Crossing Obstacles With Assistive Leg Impulsive Actuation," in IEEE/ASME Transactions on Mechatronics, vol. 27, no. 4, pp. 1882-1890, Aug. 2022. <a href="https://ieeexplore.ieee.org/abstract/document/9781431/"> Link</a>
@@ -130,7 +127,8 @@ Volume 55, Issue 37, pp. 376-381, 2022. <a href="https://www.sciencedirect.com/s
 
 
 
-PROFESSIONAL ACTIVITIES
+# PROFESSIONAL ACTIVITIES
+
 Reviewer for
 - Journals: IEEE Trans. on Automation Science and Engineering, IEEE Trans. on Control Systems Technology, IEEE/ASME Trans. on Mechatronics, IEEE Robotics and Automation Letters, em Control Engineering Practice, Mechatronics, Transportation Research Part C, International Journal of Intelligent Robotics and Applications,
 
