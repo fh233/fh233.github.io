@@ -109,12 +109,8 @@ h1:before, .anchor:before {
 
 
 .video {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 10%;
-    height: 10%;
-    border: 0;
+    display: flex;
+    justify-content: center;
   }
 
 .video-container {
