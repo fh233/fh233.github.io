@@ -53,7 +53,10 @@ gait/posture detection and prediction)
 
 
 # 📝 Projects and Publications 
+<p>
 <b> Lenaring-based control for underactuatd balcne robots </b>
+<p></br>
+
 
 - F. Han and J. Yi, "Stable Learning-Based Tracking Control of Underactuated Balance Robots," in *IEEE Robotics and Automation Letters*, vol. 6, no. 2, pp. 1543-1550, April 2021. <a href="https://ieeexplore.ieee.org/abstract/document/9345449/"> Link</a>
 
@@ -64,10 +67,10 @@ gait/posture detection and prediction)
 
 <b> Ski-stunt Maneuvering Control of Racing Truck </b>
 
-<p>
+
 <iframe width="160" height="90" src="https://www.youtube.com/embed/UNvMRVXNZ0U">
 </iframe>
-<br /><p>
+
 
 - F. Han, and J. Yi (2023), Safe Motion Control of Autonomous VehicleSki-Stunt Maneuvers. IEEE/ASME Trans. on Mechatronics, 2023. (*Under Review*)
 
@@ -76,15 +79,15 @@ gait/posture detection and prediction)
 
 <div class='paper-box-text' markdown="1">
 
-
+<p>
 <b> Cordinated Control of Mobile Robot </b>
+<br /><p>
 
 - P. Wang, F. Han, and Yi, Jingang, "Gyroscopic Balancer-Enhanced Motion Control Of An Autonomous Bikebot," in Journal of Dynamic Systems, Measurement, and Control, pp. 1-15, 2023. <a href="https://asmedigitalcollection.asme.org/dynamicsystems/article/doi/10.1115/1.4063014/1164571"> Link</a>
 
 
 
-- T. Zheng, F. Han, and J. Yi (2023) Design and Control of An Agricultural Robot for Turf Grass Inspection.
-2023 Modeling, Estimation and Control Conference. (*Accepted*)
+- T. Zheng, F. Han, and J. Yi (2023) Design and Control of An Agricultural Robot for Turf Grass Inspection. 2023 Modeling, Estimation and Control Conference. (*Accepted*)
 
 <p>
 <iframe width="160" height="90" src="https://www.youtube.com/embed/cyA_f5utthc">
@@ -104,8 +107,9 @@ gait/posture detection and prediction)
 
 <div class='paper-box-text' markdown="1">
 
+<b>
 <b> Learning-Based Motion Pattern Recogniztion and Control </b>
-
+<p></br>
 - T. Yigit, F. Han, E. Rankins, J. Yi, K. H. McKeever and K. Malinowski, "Wearable Inertial Sensor-Based Limb Lameness Detection and Pose Estimation for Horses," in IEEE Transactions on Automation Science and Engineering, vol. 19, no. 3, pp. 1365-1379, July 2022. <a href="https://ieeexplore.ieee.org/abstract/document/9743494"> Link</a>
 
 
@@ -118,6 +122,7 @@ gait/posture detection and prediction)
 - M. Mihalec, F. Han, and J. Yi, "Integrated inverted pendulum and whole-body control design for bipedal robot with foot slip," IFAC-PapersOnLine,
 Volume 55, Issue 37, pp. 376-381, 2022. <a href="https://www.sciencedirect.com/science/article/pii/S2405896322028555"> Link</a>
 
+<div class='paper-box-text' markdown="1">
 
 
 
