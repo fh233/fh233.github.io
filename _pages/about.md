@@ -68,8 +68,7 @@ gait/posture detection and prediction)
 <div class='paper-box-text' markdown="1">
 
 
-<div class='paper-box'>
-<div class="video-container">
+<div class='paper-box'><div><div class="video-container">
 <iframe width="16" height="9" src="https://www.youtube.com/embed/UNvMRVXNZ0U"></iframe>
 </div>
 <div class='paper-box-text' markdown="1">
