@@ -71,7 +71,7 @@ gait/posture detection and prediction)
 
 - F. Han and J. Yi, "Learning-based Safe Motion Control of Vehicle Ski-Stunt Maneuvers," 2022 IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM), Sapporo, Japan, 2022, pp. 724-729. <a href="https://ieeexplore.ieee.org/abstract/document/9863309/"> Link</a>
 
-<iframe width="160" height="90" src="https://www.youtube.com/embed/UNvMRVXNZ0U&ab_channel=FengHan">
+<iframe width="160" height="90" src="https://www.youtube.com/embed/UNvMRVXNZ0U">
 </iframe>
 
 <b> Cordinated Control of Mobile Robot </b>
