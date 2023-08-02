@@ -53,10 +53,8 @@ gait/posture detection and prediction)
 
 
 # 📝 Projects and Publications 
-<p>
-<b> Lenaring-based control for underactuatd balcne robots </b>
-<p></br>
 
+<b> Lenaring-based control for underactuatd balcne robots </b>
 
 - F. Han and J. Yi, "Stable Learning-Based Tracking Control of Underactuated Balance Robots," in *IEEE Robotics and Automation Letters*, vol. 6, no. 2, pp. 1543-1550, April 2021. <a href="https://ieeexplore.ieee.org/abstract/document/9345449/"> Link</a>
 
@@ -79,9 +77,9 @@ gait/posture detection and prediction)
 
 <div class='paper-box-text' markdown="1">
 
-<p>
-<b> Cordinated Control of Mobile Robot </b>
-<br /><p>
+
+<b> Cordinated Control of Mobile Robot </b><br /> 
+
 
 - P. Wang, F. Han, and Yi, Jingang, "Gyroscopic Balancer-Enhanced Motion Control Of An Autonomous Bikebot," in Journal of Dynamic Systems, Measurement, and Control, pp. 1-15, 2023. <a href="https://asmedigitalcollection.asme.org/dynamicsystems/article/doi/10.1115/1.4063014/1164571"> Link</a>
 
@@ -91,7 +89,7 @@ gait/posture detection and prediction)
 
 <iframe width="160" height="90" src="https://www.youtube.com/embed/cyA_f5utthc">
 </iframe>
-<br />
+
 
 
 - F. Han, X. Huang, Z. Wang, J. Yi and T. Liu, "Autonomous Bikebot Control for Crossing Obstacles With Assistive Leg Impulsive Actuation," in IEEE/ASME Transactions on Mechatronics, vol. 27, no. 4, pp. 1882-1890, Aug. 2022. <a href="https://ieeexplore.ieee.org/abstract/document/9781431/"> Link</a>
@@ -106,9 +104,9 @@ gait/posture detection and prediction)
 
 <div class='paper-box-text' markdown="1">
 
-<p>
+
 <b> Learning-Based Motion Pattern Recogniztion and Control </b>
-<p></br>
+
 
 
 - T. Yigit, F. Han, E. Rankins, J. Yi, K. H. McKeever and K. Malinowski, "Wearable Inertial Sensor-Based Limb Lameness Detection and Pose Estimation for Horses," in IEEE Transactions on Automation Science and Engineering, vol. 19, no. 3, pp. 1365-1379, July 2022. <a href="https://ieeexplore.ieee.org/abstract/document/9743494"> Link</a>
