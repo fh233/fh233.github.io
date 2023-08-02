@@ -55,22 +55,43 @@ gait/posture detection and prediction)
 # 📝 Projects and Publications 
 <b> Lenaring-based control for underactuatd balcne robots </b>
 
-- F. Han and J. Yi, (2021). Stable learning-based tracking control of underactuated balance robots. IEEE Robotics and Automation Letters, vol. 6, no. 3, pp 1543-1550.
+- F. Han and J. Yi, "Stable Learning-Based Tracking Control of Underactuated Balance Robots," in IEEE Robotics and Automation Letters, vol. 6, no. 2, pp. 1543-1550, April 2021. <a href="https://ieeexplore.ieee.org/abstract/document/9345449/"> Link</a>
+
+- F. Han and J. Yi, "On the Learned Balance Manifold of Underactuated Balance Robots," 2023 IEEE International Conference on Robotics and Automation (ICRA), London, United Kingdom, 2023, pp. 12254-12260. <a href="https://ieeexplore.ieee.org/abstract/document/10161088/"> Link</a>
 
 
-<b> Lenaring-based control for underactuatd balcne robots </b>
+
+<b> Ski-stunt Maneuvering Control of Racing Truck </b>
+
+-F. Han and J. Yi, "Learning-based Safe Motion Control of Vehicle Ski-Stunt Maneuvers," 2022 IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM), Sapporo, Japan, 2022, pp. 724-729. <a href="https://ieeexplore.ieee.org/abstract/document/9863309/"> Link</a>
 
 
 
-J4. F. Han, A. Jelvani, J. Yi, and T. Liu (2022). Coordinated pose control of mobile manipulation with an
-unstable bikebot platform. IEEE/ASME Trans. on Mechatronics, vol. 27, no. 6, pp 4550-4560.
-J3. F. Han, X. Huang, Z.Wang, J. Yi, and T. Liu (2022). Autonomous bikebot control for crossing obstacles
-with assistive leg impulsive actuation. IEEE/ASME Trans. on Mechatronics, vol. 27, no. 4, pp 1882-1890.
-Co-first author.
-J2. T. Yigit, F. Han, E. Rankins, J. Yi, K. McKeever, and K. Malinowski (2022). Wearable inertial sensorbased
-limb lameness detection and pose estimation for horses. IEEE Trans. on Automation Science and
-Engineering, vol. 19, no. 3, pp 1365-1379. Co-first author.
 
+<b> Cordinated Control of bikebot system </b>
+
+-P. Wang, F. Han, and Yi, Jingang, "Gyroscopic Balancer-Enhanced Motion Control Of An Autonomous Bikebot," in Journal of Dynamic Systems, Measurement, and Control, pp. 1-15, 2023. <a href="https://asmedigitalcollection.asme.org/dynamicsystems/article/doi/10.1115/1.4063014/1164571"> Link</a>
+
+
+- F. Han, X. Huang, Z. Wang, J. Yi and T. Liu, "Autonomous Bikebot Control for Crossing Obstacles With Assistive Leg Impulsive Actuation," in IEEE/ASME Transactions on Mechatronics, vol. 27, no. 4, pp. 1882-1890, Aug. 2022. <a href="https://ieeexplore.ieee.org/abstract/document/9781431/"> Link</a>
+
+
+- F. Han, A. Jelvani, J. Yi and T. Liu, "Coordinated Pose Control of Mobile Manipulation With an Unstable Bikebot Platform," in IEEE/ASME Transactions on Mechatronics, vol. 27, no. 6, pp. 4550-4560, Dec. 2022. <a href="https://ieeexplore.ieee.org/abstract/document/9750394/"> Link</a>
+
+
+- X. Huang, F. Han, Y. Han, S. Wang, T. Liu and J. Yi, "Motion Control of an Autonomous Wheel-Leg Bikebot," 2022 IEEE 18th International Conference on Automation Science and Engineering (CASE), Mexico City, Mexico, 2022, pp. 2341-2346. <a href="https://ieeexplore.ieee.org/abstract/document/9926543/"> Link</a>
+
+
+<b> Cordinated Control of bikebot system </b>
+
+
+- T. Yigit, F. Han, E. Rankins, J. Yi, K. McKeever and K. Malinowski, "Wearable IMU-based Early Limb Lameness Detection for Horses using Multi-Layer Classifiers," 2020 IEEE 16th International Conference on Automation Science and Engineering (CASE), Hong Kong, China, 2020, pp. 955-960. <a href="https://ieeexplore.ieee.org/abstract/document/9216873"> Link</a>
+
+
+
+
+- C. Deng, Y. Gong, F. Han, S. Liao, J. Yi and B. Yuan, "VLSI Hardware Architecture for Gaussian Process," 2020 54th Asilomar Conference on Signals, Systems, and Computers, Pacific Grove, CA, USA, 2020, pp. 121-124. 
+<a href="https://ieeexplore.ieee.org/abstract/document/9443272"> Link</a>
 
 
 # 📖 Educations
