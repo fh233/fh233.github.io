@@ -1,6 +1,3 @@
----
----
-
 /*
  *    Minimal Mistakes Jekyll Theme
  *
@@ -87,25 +84,6 @@
 
 }
 
-
-
-.video-container {
-    aspect-ratio: 16 / 9;
-    width: 20%;
-}
-
-
-.video {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 20%;
-    height: 20%;
-    border: 0;
-  }
-
-
-  
 $scroll_offset : 2em;
 h1:before, .anchor:before { 
     content: ''; 
@@ -126,3 +104,21 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+
+
+
+.video {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 10%;
+    height: 10%;
+    border: 0;
+  }
+
+.video-container {
+    position: relative;
+    width: 10%;
+    padding-bottom: 56.25%;
+  }
