@@ -67,12 +67,11 @@ gait/posture detection and prediction)
 
 <div class='paper-box-text' markdown="1">
 
-<p><iframe width="160" src="https://www.youtube.com/embed/UNvMRVXNZ0U"  class="center">
-</iframe><br /><p>
-<div class='paper-box-text' markdown="1">
+
+
 
 <div class="video-container">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/UNvMRVXNZ0U"></iframe>
+    <iframe width="160" height="90" src="https://www.youtube.com/embed/UNvMRVXNZ0U"></iframe>
 </div>
 
 
