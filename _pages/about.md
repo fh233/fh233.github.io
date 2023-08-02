@@ -64,7 +64,7 @@ gait/posture detection and prediction)
 
 <b> Ski-stunt Maneuvering Control of Racing Truck </b>
 
-<iframe width="420" height="345" src="https://www.youtube.com/embed/tgbNymZ7vqY">
+<iframe width="160" height="90" src="https://youtu.be/UNvMRVXNZ0U">
 </iframe>
 
 
