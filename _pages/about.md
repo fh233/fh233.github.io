@@ -64,14 +64,17 @@ gait/posture detection and prediction)
 
 <b> Ski-stunt Maneuvering Control of Racing Truck </b>
 
+<p>
 <iframe width="160" height="90" src="https://www.youtube.com/embed/UNvMRVXNZ0U">
 </iframe>
+<br /><p>
 
 - F. Han, and J. Yi (2023), Safe Motion Control of Autonomous VehicleSki-Stunt Maneuvers. IEEE/ASME Trans. on Mechatronics, 2023. (*Under Review*)
 
 
 - F. Han and J. Yi, "Learning-based Safe Motion Control of Vehicle Ski-Stunt Maneuvers," 2022 IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM), Sapporo, Japan, 2022, pp. 724-729. <a href="https://ieeexplore.ieee.org/abstract/document/9863309/"> Link</a>
 
+<div class='paper-box-text' markdown="1">
 
 
 <b> Cordinated Control of Mobile Robot </b>
@@ -83,8 +86,11 @@ gait/posture detection and prediction)
 - T. Zheng, F. Han, and J. Yi (2023) Design and Control of An Agricultural Robot for Turf Grass Inspection.
 2023 Modeling, Estimation and Control Conference. (*Accepted*)
 
+<p>
 <iframe width="160" height="90" src="https://www.youtube.com/embed/cyA_f5utthc">
 </iframe>
+<br /><p>
+
 
 - F. Han, X. Huang, Z. Wang, J. Yi and T. Liu, "Autonomous Bikebot Control for Crossing Obstacles With Assistive Leg Impulsive Actuation," in IEEE/ASME Transactions on Mechatronics, vol. 27, no. 4, pp. 1882-1890, Aug. 2022. <a href="https://ieeexplore.ieee.org/abstract/document/9781431/"> Link</a>
 
@@ -96,6 +102,7 @@ gait/posture detection and prediction)
 
 - X. Huang, F. Han, Y. Han, S. Wang, T. Liu and J. Yi, "Motion Control of an Autonomous Wheel-Leg Bikebot," 2022 IEEE 18th International Conference on Automation Science and Engineering (CASE), Mexico City, Mexico, 2022, pp. 2341-2346. <a href="https://ieeexplore.ieee.org/abstract/document/9926543/"> Link</a>
 
+<div class='paper-box-text' markdown="1">
 
 <b> Learning-Based Motion Pattern Recogniztion and Control </b>
 
