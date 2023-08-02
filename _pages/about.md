@@ -63,7 +63,7 @@ gait/posture detection and prediction)
 - C. Deng, Y. Gong, F. Han, S. Liao, J. Yi and B. Yuan, "VLSI Hardware Architecture for Gaussian Process," *2020 54th Asilomar Conference on Signals, Systems, and Computers*, Pacific Grove, CA, USA, 2020, pp. 121-124. <a href="https://ieeexplore.ieee.org/abstract/document/9443272"> Link</a>
 
 
-<iframe class="video-container" src="https://www.youtube.com/embed/RcnksOUugcA"></iframe>
+<iframe class="video-container" width="100" src="https://www.youtube.com/embed/RcnksOUugcA"></iframe>
 
 
 
