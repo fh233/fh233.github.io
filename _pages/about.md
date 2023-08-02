@@ -64,8 +64,6 @@ gait/posture detection and prediction)
 
 <b> Ski-stunt Maneuvering Control of Racing Truck </b>
 
-<iframe width="160" height="90" src="https://youtu.be/UNvMRVXNZ0U">
-</iframe>
 
 - F. Han, and J. Yi (2023), Safe Motion Control of Autonomous VehicleSki-Stunt Maneuvers. IEEE/ASME
 
@@ -90,10 +88,11 @@ Trans. on Mechatronics, 2023. (*Under Review*)
 
 
 
-<iframe width="160" height="90" src="hhttps://www.youtube.com/watch?v=UNvMRVXNZ0U&ab_channel=FengHan">
+<iframe width="160" height="90" src="https://www.youtube.com/watch?v=UNvMRVXNZ0U&ab_channel=FengHan">
 </iframe>
 
 - F. Han, A. Jelvani, J. Yi and T. Liu, "Coordinated Pose Control of Mobile Manipulation With an Unstable Bikebot Platform," in IEEE/ASME Transactions on Mechatronics, vol. 27, no. 6, pp. 4550-4560, Dec. 2022. <a href="https://ieeexplore.ieee.org/abstract/document/9750394/"> Link</a>
+
 
 
 - X. Huang, F. Han, Y. Han, S. Wang, T. Liu and J. Yi, "Motion Control of an Autonomous Wheel-Leg Bikebot," 2022 IEEE 18th International Conference on Automation Science and Engineering (CASE), Mexico City, Mexico, 2022, pp. 2341-2346. <a href="https://ieeexplore.ieee.org/abstract/document/9926543/"> Link</a>
