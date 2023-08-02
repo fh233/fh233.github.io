@@ -59,18 +59,26 @@ gait/posture detection and prediction)
 
 - F. Han and J. Yi, "On the Learned Balance Manifold of Underactuated Balance Robots," 2023 IEEE International Conference on Robotics and Automation (ICRA), London, United Kingdom, 2023, pp. 12254-12260. <a href="https://ieeexplore.ieee.org/abstract/document/10161088/"> Link</a>
 
+- C. Deng, Y. Gong, F. Han, S. Liao, J. Yi and B. Yuan, "VLSI Hardware Architecture for Gaussian Process," 2020 54th Asilomar Conference on Signals, Systems, and Computers, Pacific Grove, CA, USA, 2020, pp. 121-124. <a href="https://ieeexplore.ieee.org/abstract/document/9443272"> Link</a>
 
 
 <b> Ski-stunt Maneuvering Control of Racing Truck </b>
 
--F. Han and J. Yi, "Learning-based Safe Motion Control of Vehicle Ski-Stunt Maneuvers," 2022 IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM), Sapporo, Japan, 2022, pp. 724-729. <a href="https://ieeexplore.ieee.org/abstract/document/9863309/"> Link</a>
+- F. Han and J. Yi, "Learning-based Safe Motion Control of Vehicle Ski-Stunt Maneuvers," 2022 IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM), Sapporo, Japan, 2022, pp. 724-729. <a href="https://ieeexplore.ieee.org/abstract/document/9863309/"> Link</a>
+
+- F. Han, and J. Yi (2023), Safe Motion Control of Autonomous VehicleSki-Stunt Maneuvers. IEEE/ASME
+Trans. on Mechatronics, 2023. (*Under Review*)
 
 
 
 
-<b> Cordinated Control of bikebot system </b>
+<b> Cordinated Control of Mobile Robot </b>
 
--P. Wang, F. Han, and Yi, Jingang, "Gyroscopic Balancer-Enhanced Motion Control Of An Autonomous Bikebot," in Journal of Dynamic Systems, Measurement, and Control, pp. 1-15, 2023. <a href="https://asmedigitalcollection.asme.org/dynamicsystems/article/doi/10.1115/1.4063014/1164571"> Link</a>
+- P. Wang, F. Han, and Yi, Jingang, "Gyroscopic Balancer-Enhanced Motion Control Of An Autonomous Bikebot," in Journal of Dynamic Systems, Measurement, and Control, pp. 1-15, 2023. <a href="https://asmedigitalcollection.asme.org/dynamicsystems/article/doi/10.1115/1.4063014/1164571"> Link</a>
+
+
+- T. Zheng, F. Han, and J. Yi (2023) Design and Control of An Agricultural Robot for Turf Grass Inspection.
+2023 Modeling, Estimation and Control Conference. (*Accepted*)
 
 
 - F. Han, X. Huang, Z. Wang, J. Yi and T. Liu, "Autonomous Bikebot Control for Crossing Obstacles With Assistive Leg Impulsive Actuation," in IEEE/ASME Transactions on Mechatronics, vol. 27, no. 4, pp. 1882-1890, Aug. 2022. <a href="https://ieeexplore.ieee.org/abstract/document/9781431/"> Link</a>
@@ -82,16 +90,22 @@ gait/posture detection and prediction)
 - X. Huang, F. Han, Y. Han, S. Wang, T. Liu and J. Yi, "Motion Control of an Autonomous Wheel-Leg Bikebot," 2022 IEEE 18th International Conference on Automation Science and Engineering (CASE), Mexico City, Mexico, 2022, pp. 2341-2346. <a href="https://ieeexplore.ieee.org/abstract/document/9926543/"> Link</a>
 
 
-<b> Cordinated Control of bikebot system </b>
+<b> Learning-Based Motion Pattern Recogniztion and Control </b>
+
+- T. Yigit, F. Han, E. Rankins, J. Yi, K. H. McKeever and K. Malinowski, "Wearable Inertial Sensor-Based Limb Lameness Detection and Pose Estimation for Horses," in IEEE Transactions on Automation Science and Engineering, vol. 19, no. 3, pp. 1365-1379, July 2022. <a href="https://ieeexplore.ieee.org/abstract/document/9743494"> Link</a>
+
 
 
 - T. Yigit, F. Han, E. Rankins, J. Yi, K. McKeever and K. Malinowski, "Wearable IMU-based Early Limb Lameness Detection for Horses using Multi-Layer Classifiers," 2020 IEEE 16th International Conference on Automation Science and Engineering (CASE), Hong Kong, China, 2020, pp. 955-960. <a href="https://ieeexplore.ieee.org/abstract/document/9216873"> Link</a>
 
 
+- C. Zhu, F. Han and J. Yi, "Wearable Sensing and Knee Exoskeleton Control for Awkward Gaits Assistance," 2022 IEEE 18th International Conference on Automation Science and Engineering (CASE), Mexico City, Mexico, 2022, pp. 2393-2398. <a href="https://ieeexplore.ieee.org/abstract/document/9926655"> Link</a>
+
+- M. Mihalec, F. Han, and J. Yi, "Integrated inverted pendulum and whole-body control design for bipedal robot with foot slip," IFAC-PapersOnLine,
+Volume 55, Issue 37, pp. 376-381, 2022. <a href="https://www.sciencedirect.com/science/article/pii/S2405896322028555"> Link</a>
 
 
-- C. Deng, Y. Gong, F. Han, S. Liao, J. Yi and B. Yuan, "VLSI Hardware Architecture for Gaussian Process," 2020 54th Asilomar Conference on Signals, Systems, and Computers, Pacific Grove, CA, USA, 2020, pp. 121-124. 
-<a href="https://ieeexplore.ieee.org/abstract/document/9443272"> Link</a>
+
 
 
 # 📖 Educations
