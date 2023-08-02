@@ -55,14 +55,18 @@ gait/posture detection and prediction)
 # 📝 Projects and Publications 
 <b> Lenaring-based control for underactuatd balcne robots </b>
 
-- F. Han and J. Yi, "Stable Learning-Based Tracking Control of Underactuated Balance Robots," in IEEE Robotics and Automation Letters, vol. 6, no. 2, pp. 1543-1550, April 2021. <a href="https://ieeexplore.ieee.org/abstract/document/9345449/"> Link</a>
+- F. Han and J. Yi, "Stable Learning-Based Tracking Control of Underactuated Balance Robots," in *IEEE Robotics and Automation Letters*, vol. 6, no. 2, pp. 1543-1550, April 2021. <a href="https://ieeexplore.ieee.org/abstract/document/9345449/"> Link</a>
 
-- F. Han and J. Yi, "On the Learned Balance Manifold of Underactuated Balance Robots," 2023 IEEE International Conference on Robotics and Automation (ICRA), London, United Kingdom, 2023, pp. 12254-12260. <a href="https://ieeexplore.ieee.org/abstract/document/10161088/"> Link</a>
+- F. Han and J. Yi, "On the Learned Balance Manifold of Underactuated Balance Robots," *2023 IEEE International Conference on Robotics and Automation (ICRA)*, London, United Kingdom, 2023, pp. 12254-12260. <a href="https://ieeexplore.ieee.org/abstract/document/10161088/"> Link</a>
 
-- C. Deng, Y. Gong, F. Han, S. Liao, J. Yi and B. Yuan, "VLSI Hardware Architecture for Gaussian Process," 2020 54th Asilomar Conference on Signals, Systems, and Computers, Pacific Grove, CA, USA, 2020, pp. 121-124. <a href="https://ieeexplore.ieee.org/abstract/document/9443272"> Link</a>
+- C. Deng, Y. Gong, F. Han, S. Liao, J. Yi and B. Yuan, "VLSI Hardware Architecture for Gaussian Process," *2020 54th Asilomar Conference on Signals, Systems, and Computers*, Pacific Grove, CA, USA, 2020, pp. 121-124. <a href="https://ieeexplore.ieee.org/abstract/document/9443272"> Link</a>
 
 
 <b> Ski-stunt Maneuvering Control of Racing Truck </b>
+
+<iframe width="420" height="345" src="https://www.youtube.com/embed/tgbNymZ7vqY">
+</iframe>
+
 
 - F. Han and J. Yi, "Learning-based Safe Motion Control of Vehicle Ski-Stunt Maneuvers," 2022 IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM), Sapporo, Japan, 2022, pp. 724-729. <a href="https://ieeexplore.ieee.org/abstract/document/9863309/"> Link</a>
 
