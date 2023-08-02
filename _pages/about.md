@@ -64,15 +64,15 @@ gait/posture detection and prediction)
 
 <b> Ski-stunt Maneuvering Control of Racing Truck </b>
 
+<iframe width="160" height="90" src="https://www.youtube.com/embed/UNvMRVXNZ0U">
+</iframe>
 
 - F. Han, and J. Yi (2023), Safe Motion Control of Autonomous VehicleSki-Stunt Maneuvers. IEEE/ASME Trans. on Mechatronics, 2023. (*Under Review*)
 
 
-
 - F. Han and J. Yi, "Learning-based Safe Motion Control of Vehicle Ski-Stunt Maneuvers," 2022 IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM), Sapporo, Japan, 2022, pp. 724-729. <a href="https://ieeexplore.ieee.org/abstract/document/9863309/"> Link</a>
 
-<iframe width="160" height="90" src="https://www.youtube.com/embed/UNvMRVXNZ0U">
-</iframe>
+
 
 <b> Cordinated Control of Mobile Robot </b>
 
@@ -83,12 +83,12 @@ gait/posture detection and prediction)
 - T. Zheng, F. Han, and J. Yi (2023) Design and Control of An Agricultural Robot for Turf Grass Inspection.
 2023 Modeling, Estimation and Control Conference. (*Accepted*)
 
+<iframe width="160" height="90" src="https://www.youtube.com/embed/cyA_f5utthc">
+</iframe>
 
 - F. Han, X. Huang, Z. Wang, J. Yi and T. Liu, "Autonomous Bikebot Control for Crossing Obstacles With Assistive Leg Impulsive Actuation," in IEEE/ASME Transactions on Mechatronics, vol. 27, no. 4, pp. 1882-1890, Aug. 2022. <a href="https://ieeexplore.ieee.org/abstract/document/9781431/"> Link</a>
 
 
-<iframe width="160" height="90" src="https://www.youtube.com/embed/UNvMRVXNZ0U&ab_channel=FengHan">
-</iframe>
 
 - F. Han, A. Jelvani, J. Yi and T. Liu, "Coordinated Pose Control of Mobile Manipulation With an Unstable Bikebot Platform," in IEEE/ASME Transactions on Mechatronics, vol. 27, no. 6, pp. 4550-4560, Dec. 2022. <a href="https://ieeexplore.ieee.org/abstract/document/9750394/"> Link</a>
 
@@ -117,3 +117,10 @@ Volume 55, Issue 37, pp. 376-381, 2022. <a href="https://www.sciencedirect.com/s
 
 # 📖 Educations
 
+
+
+PROFESSIONAL ACTIVITIES
+Reviewer for
+- Journals: IEEE Trans. on Automation Science and Engineering, IEEE Trans. on Control Systems Technology, IEEE/ASME Trans. on Mechatronics, IEEE Robotics and Automation Letters, em Control Engineering Practice, Mechatronics, Transportation Research Part C, International Journal of Intelligent Robotics and Applications,
+
+- Conferences: American Control Conference (ACC), IEEE/ASME International Conference Advanced Intelligent Mechatronics (AIM), IEEE International Conference on Automation Science and Engineering (CASE), IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), IEEE International Conference on Intelligent Transportation Systems (ITSC), IEEE International Conference on Robotics and Automation (ICRA), IFAC World
