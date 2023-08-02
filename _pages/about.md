@@ -69,11 +69,7 @@ gait/posture detection and prediction)
 <b> Ski-stunt Maneuvering Control of Racing Truck </b>
 
 
-<div class="center">
-  <div class="video-container">
-      <iframe src="https://www.youtube.com/embed/RcnksOUugcA"></iframe>
-  </div>
-</div>
+
 
 
 - F. Han, and J. Yi (2023), Safe Motion Control of Autonomous Vehicle Ski-Stunt Maneuvers. IEEE/ASME Trans. on Mechatronics, 2023. (*Under Review*)
