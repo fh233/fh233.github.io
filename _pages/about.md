@@ -65,9 +65,11 @@ gait/posture detection and prediction)
 
 <b> Ski-stunt Maneuvering Control of Racing Truck </b>
 
-
-<iframe width="160" height="90" src="https://www.youtube.com/embed/UNvMRVXNZ0U">
+<p>
+<iframe width="160" height="90" src="https://www.youtube.com/embed/UNvMRVXNZ0U"  class="center">
 </iframe>
+<br /><p>
+<div class='paper-box-text' markdown="1">
 
 
 - F. Han, and J. Yi (2023), Safe Motion Control of Autonomous VehicleSki-Stunt Maneuvers. IEEE/ASME Trans. on Mechatronics, 2023. (*Under Review*)
@@ -103,8 +105,6 @@ gait/posture detection and prediction)
 
 
 <b> Learning-Based Motion Pattern Recogniztion and Control </b>
-
-
 
 - T. Yigit, F. Han, E. Rankins, J. Yi, K. H. McKeever and K. Malinowski, "Wearable Inertial Sensor-Based Limb Lameness Detection and Pose Estimation for Horses," in IEEE Transactions on Automation Science and Engineering, vol. 19, no. 3, pp. 1365-1379, July 2022. <a href="https://ieeexplore.ieee.org/abstract/document/9743494"> Link</a>
 
