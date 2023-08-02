@@ -37,33 +37,41 @@ This is Feng. Feng is currently a graduate student at Rutgers, The State Univers
 gait/posture detection and prediction)
 
 
-# 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep 1 Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2019*, Graduate Fellowship, Department of Mechanical and Aerospace Engineering, Rutgers.
+- *2017-2018*, Graduate Fellowship, Harbin Institute of Technology, 
+- *2017*, National Scholarship, Nanjing University of Aeronautics and Astronautics, 
+- *2013-2017*, Outsdanding students fellowship, Nanjing University of Aeronautics and Astronautics
+
+
+# Teaching Experience
+- MAE 401: Dynamics Systems and Control (*Summer 2020, 2021, 2022*), Instructor
+- MAE 361: Introduction to Mechatronics Lab (*Fall 2022, Spring 2023*), Instructor
+- MAE 365: Dynamics (*Fall 2021*), Teaching Assistant
+
+
+
+# 📝 Projects and Publications 
+<b> Lenaring-based control for underactuatd balcne robots </b>
+
+- F. Han and J. Yi, (2021). Stable learning-based tracking control of underactuated balance robots. IEEE Robotics and Automation Letters, vol. 6, no. 3, pp 1543-1550.
+
+
+<b> Lenaring-based control for underactuatd balcne robots </b>
+
+
+
+J4. F. Han, A. Jelvani, J. Yi, and T. Liu (2022). Coordinated pose control of mobile manipulation with an
+unstable bikebot platform. IEEE/ASME Trans. on Mechatronics, vol. 27, no. 6, pp 4550-4560.
+J3. F. Han, X. Huang, Z.Wang, J. Yi, and T. Liu (2022). Autonomous bikebot control for crossing obstacles
+with assistive leg impulsive actuation. IEEE/ASME Trans. on Mechatronics, vol. 27, no. 4, pp 1882-1890.
+Co-first author.
+J2. T. Yigit, F. Han, E. Rankins, J. Yi, K. McKeever, and K. Malinowski (2022). Wearable inertial sensorbased
+limb lameness detection and pose estimation for horses. IEEE Trans. on Automation Science and
+Engineering, vol. 19, no. 3, pp 1365-1379. Co-first author.
+
+
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
