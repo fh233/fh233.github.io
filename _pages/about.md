@@ -17,13 +17,25 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# 😊😊😊 Greetings!
+# Greetings!
 This is Feng. Feng is currently a graduate student at Rutgers, The State University of New Jersey, since 2019. His research interest includes dynamics, control and machine learning and its application in robotics. Feng has been working on autonomous bicycle, mobile manipulation, agile maneuvering control and other underactuated balancing robots. 
 
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+
+# Research Interests
+
+- Robotics and autonomous systems (autonomous vehicles, manipulation, robot dynamics and control)
+
+- Dynamic systems and control (machine learning-based modeling and control, nonlinear control system design,  design and control of mechatronic systems)
+
+- Learning-based sensor fusion and posture analysis
+(learning-based sensor data analysis and modeling, 
+gait/posture detection and prediction)
+
 
 # 📝 Publications 
 
