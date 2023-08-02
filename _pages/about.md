@@ -71,12 +71,13 @@ gait/posture detection and prediction)
 
 - F. Han and J. Yi, "Learning-based Safe Motion Control of Vehicle Ski-Stunt Maneuvers," 2022 IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM), Sapporo, Japan, 2022, pp. 724-729. <a href="https://ieeexplore.ieee.org/abstract/document/9863309/"> Link</a>
 
-<iframe width="160" height="90" src="https://www.youtube.com/embeded/UNvMRVXNZ0U&ab_channel=FengHan">
+<iframe width="160" height="90" src="https://www.youtube.com/embed/UNvMRVXNZ0U&ab_channel=FengHan">
 </iframe>
 
 <b> Cordinated Control of Mobile Robot </b>
 
 - P. Wang, F. Han, and Yi, Jingang, "Gyroscopic Balancer-Enhanced Motion Control Of An Autonomous Bikebot," in Journal of Dynamic Systems, Measurement, and Control, pp. 1-15, 2023. <a href="https://asmedigitalcollection.asme.org/dynamicsystems/article/doi/10.1115/1.4063014/1164571"> Link</a>
+
 
 
 - T. Zheng, F. Han, and J. Yi (2023) Design and Control of An Agricultural Robot for Turf Grass Inspection.
@@ -86,7 +87,7 @@ gait/posture detection and prediction)
 - F. Han, X. Huang, Z. Wang, J. Yi and T. Liu, "Autonomous Bikebot Control for Crossing Obstacles With Assistive Leg Impulsive Actuation," in IEEE/ASME Transactions on Mechatronics, vol. 27, no. 4, pp. 1882-1890, Aug. 2022. <a href="https://ieeexplore.ieee.org/abstract/document/9781431/"> Link</a>
 
 
-<iframe width="160" height="90" src="https://www.youtube.com/embeded/UNvMRVXNZ0U&ab_channel=FengHan">
+<iframe width="160" height="90" src="https://www.youtube.com/embed/UNvMRVXNZ0U&ab_channel=FengHan">
 </iframe>
 
 - F. Han, A. Jelvani, J. Yi and T. Liu, "Coordinated Pose Control of Mobile Manipulation With an Unstable Bikebot Platform," in IEEE/ASME Transactions on Mechatronics, vol. 27, no. 6, pp. 4550-4560, Dec. 2022. <a href="https://ieeexplore.ieee.org/abstract/document/9750394/"> Link</a>
