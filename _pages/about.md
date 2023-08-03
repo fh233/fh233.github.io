@@ -56,6 +56,12 @@ gait/posture detection and prediction)
 
 
 
+<div>
+  <img src="images/award.jpg"
+       alt="BigSur wallpaper"
+       width= "100">
+  <center>MacOS BigSur Walpaper</center>
+</div>
 
 - *2023*, Best Transaction Paper of IEEE/ASME Transaction on Mechatronics (Finalist)
 
