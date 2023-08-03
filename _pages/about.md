@@ -50,7 +50,7 @@ gait/posture detection and prediction)
 # 🎖 Honors and Awards
 
 <figure>
-    <img width= 300 src='award.jpg' alt='missing' />
+    <img width= 300 src='images/award.jpg' alt='missing' />
     <figcaption>Caption goes here</figcaption>
 </figure>
 
