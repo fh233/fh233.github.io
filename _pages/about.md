@@ -22,9 +22,9 @@ This is Feng. Feng is currently a graduate student at Rutgers, The State Univers
 
 # 📖 Educations
 
-Ph. D., Mechanical Engineering, Rutgers University September, 2019-Now
-M. S., Aerospace Engineering, Harbin Institute of Technology (China), June 2019
-B. S., Aerospace Engineering, Nanjing University of Aeronautics and Astronautics (China), June 2017
+- Ph. D., Mechanical Engineering, Rutgers University September, 2019-Now
+- M. S., Aerospace Engineering, Harbin Institute of Technology (China), June 2019
+- B. S., Aerospace Engineering, Nanjing University of Aeronautics and Astronautics (China), June 2017
 
 
 # Research Interests
@@ -82,11 +82,11 @@ gait/posture detection and prediction)
 <b> Cordinated Control of Mobile Robot </b><br /> 
 - autonomous bicycle robot control for crossing obstacles with impulsive actuation
 
-As a single-track mobile platform, bikebot (i.e., bicycle-based robot) has attractive capability to navigate through narrow, off-road terrain. However, running crossing step-like obstacles creates challenges. This project presents a novel autonomous bikebot control with two assistive legs to navigate crossing obstacles. (see video above)
+As a single-track mobile platform, bikebot (i.e., bicycle-based robot) has attractive capability to navigate through narrow, off-road terrain. However, running crossing step-like obstacles creates challenges. This project presents a novel autonomous bikebot control with two assistive legs to navigate crossing obstacles. <a href="https://www.youtube.com/watch?v=cyA_f5utthc&ab_channel=FengHan"> Video</a>
 
 - coordinate control of a manipulator on a bicycle robot control 
 
-We present a coordinated pose control of mobile manipulation with the stationary bikebot. A coordinated planning and control design is presented to determine the balance-prioritized posture control under kinematic and dynamic constraints. 
+We present a coordinated pose control of mobile manipulation with the stationary bikebot. A coordinated planning and control design is presented to determine the balance-prioritized posture control under kinematic and dynamic constraints. <a href="https://www.youtube.com/watch?v=jHQRNrrnPMc&ab_channel=FengHan"> Video</a>
 
 
 <b> Learning-Based Motion Pattern Recogniztion and Control </b><br /> 
@@ -98,7 +98,6 @@ We present a coordinated pose control of mobile manipulation with the stationary
 # 📝 Publications 
 
 <b> Journals </b>
-
 
 - F. Han, and J. Yi, Safe Motion Control of Autonomous Vehicle Ski-Stunt Maneuvers. IEEE/ASME Trans. on Mechatronics, 2023. (*Under Review*)
 
