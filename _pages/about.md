@@ -61,10 +61,10 @@ gait/posture detection and prediction)
 
 # 📝 Projects 
 
-<b> Lenaring-based control for underactuatd balcne robots </b><br /> 
+<b> 1. Lenaring-based control for underactuatd balcne robots </b><br /> 
 For the uncertainites and modelling errors, a Gaussian Process based maching learning framewrok has been proposed to deal with modelling and contorl. The learning based method is integreated with EIC-based control for underactuated balance robots. Somultaneously we can achieve trajectorying tracking and balacne control.
 
-<b> Ski-stunt Maneuvering Control of Racing Truck </b><br /> 
+<b> 2. Ski-stunt Maneuvering Control of Racing Truck </b><br /> 
 
 
 <div class="auto-resizable-iframe">
@@ -79,7 +79,7 @@ A ski-stunt maneuver is a type of aggressive vehicle motions in which a four-whe
 
 
 
-<b> Cordinated Control of Mobile Robot </b><br /> 
+<b> 3. Cordinated Control of Mobile Robot </b><br /> 
 - autonomous bicycle robot control for crossing obstacles with impulsive actuation
 
 <div class="auto-resizable-iframe">
@@ -97,7 +97,7 @@ As a single-track mobile platform, bikebot (i.e., bicycle-based robot) has attra
 We present a coordinated pose control of mobile manipulation with the stationary bikebot. A coordinated planning and control design is presented to determine the balance-prioritized posture control under kinematic and dynamic constraints. <a href="https://www.youtube.com/watch?v=jHQRNrrnPMc&ab_channel=FengHan"> Video</a>
 
 
-<b> Learning-Based Motion Pattern Recogniztion and Control </b><br /> 
+<b> 4. Learning-Based Motion Pattern Recogniztion and Control </b><br /> 
 
 Using a recurrent neural network (RNN) with long short-term memory (LSTM) cells. to idenfity the human/animal gait and predict the poses in the real time with only IMU (Inertial Measurement Unit) measurement avaiable.
 
@@ -113,9 +113,9 @@ Using a recurrent neural network (RNN) with long short-term memory (LSTM) cells.
 - P. Wang, F. Han, and Yi, Jingang, "Gyroscopic Balancer-Enhanced Motion Control Of An Autonomous Bikebot," in *Journal of Dynamic Systems, Measurement, and Control*, pp. 1-15, 2023. <a href="https://asmedigitalcollection.asme.org/dynamicsystems/article/doi/10.1115/1.4063014/1164571"> Link</a>
 
 
-- F. Han, X. Huang, Z. Wang, J. Yi and T. Liu, "Autonomous Bikebot Control for Crossing Obstacles With Assistive Leg Impulsive Actuation," in *IEEE/ASME Transactions on Mechatronics*, vol. 27, no. 4, pp. 1882-1890, Aug. 2022. <a href="https://ieeexplore.ieee.org/abstract/document/9781431/"> Link</a>
+- F. Han, X. Huang, Z. Wang, J. Yi and T. Liu, "Autonomous Bikebot Control for Crossing Obstacles With Assistive Leg Impulsive Actuation," in  <b>*IEEE/ASME Transactions on Mechatronics*</b>, vol. 27, no. 4, pp. 1882-1890, Aug. 2022. <a href="https://ieeexplore.ieee.org/abstract/document/9781431/"> Link</a>
 
-- F. Han, A. Jelvani, J. Yi and T. Liu, "Coordinated Pose Control of Mobile Manipulation With an Unstable Bikebot Platform," in <b>IEEE/ASME Transactions on Mechatronics<b>, vol. 27, no. 6, pp. 4550-4560, Dec. 2022. <a href="https://ieeexplore.ieee.org/abstract/document/9750394/"> Link</a>
+- F. Han, A. Jelvani, J. Yi and T. Liu, "Coordinated Pose Control of Mobile Manipulation With an Unstable Bikebot Platform," in <b>*IEEE/ASME Transactions on Mechatronics*</b>, vol. 27, no. 6, pp. 4550-4560, Dec. 2022. <a href="https://ieeexplore.ieee.org/abstract/document/9750394/"> Link</a>
 
 
 - F. Han and J. Yi, "Stable Learning-Based Tracking Control of Underactuated Balance Robots," in *IEEE Robotics and Automation Letters*, vol. 6, no. 2, pp. 1543-1550, April 2021. <a href="https://ieeexplore.ieee.org/abstract/document/9345449/"> Link</a>
