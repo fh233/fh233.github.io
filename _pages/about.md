@@ -50,18 +50,14 @@ gait/posture detection and prediction)
 # 🎖 Honors and Awards
 
 <figure>
-    <img  src="images/award.jpg" alt="" width= "300" class="center"/>
+    <img  src="images/award.jpg" 
+    alt="" width= "300">
     <figcaption>Award Ceneramy on at 2023 IEEE/ASME AIM Conference, Seattle, WA</figcaption>
 </figure>
 
 
 
-<div>
-  <img src="images/award.jpg"
-       alt="BigSur wallpaper"
-       width= "100">
-  <center>MacOS BigSur Walpaper</center>
-</div>
+
 
 - *2023*, Best Transaction Paper of IEEE/ASME Transaction on Mechatronics (Finalist)
 
