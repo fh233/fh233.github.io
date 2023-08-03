@@ -49,14 +49,9 @@ gait/posture detection and prediction)
 
 # 🎖 Honors and Awards
 
-<figure>
-    <img  src="images/award.jpg" 
-    alt="" width= "300">
-    <figcaption>Award Ceneramy at 2023 IEEE/ASME AIM Conference, Seattle, WA</figcaption>
-</figure>
 
 <div>
-  <img src='images/award.jpg' alt="sym" width="100" class="center">
+  <img src='images/award.jpg' alt="sym" width="400" class="center">
   <figcaption>Award Ceneramy at 2023 IEEE/ASME AIM Conference, Seattle, WA</figcaption>
 </div>
 <div class='paper-box-text' markdown="1">
