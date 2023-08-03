@@ -67,11 +67,6 @@ gait/posture detection and prediction)
 <b> Ski-stunt Maneuvering Control of Racing Truck </b><br /> 
 
 
-
-
-<b> Cordinated Control of Mobile Robot </b><br /> 
-- autonomous bicycle robot control for crossing obstacles with impulsive actuation <br /> 
-
 <div class="auto-resizable-iframe">
   <div>
     <iframe frameborder="0" allowfullscreen="" src="https://www.youtube.com/embed/UNvMRVXNZ0U"></iframe>
@@ -80,11 +75,18 @@ gait/posture detection and prediction)
 <br /> 
 <div class='paper-box-text' markdown="1">
 
+-A ski-stunt maneuver is a type of aggressive vehicle motions in which a four-wheel vehicle runs on two wheels on one side.  We present the safety-guaranteed motion control of  autonomous ski-stunt maneuvers. (see the video abvoe)
+
+
+
+<b> Cordinated Control of Mobile Robot </b><br /> 
+- autonomous bicycle robot control for crossing obstacles with impulsive actuation
+
 As a single-track mobile platform, bikebot (i.e., bicycle-based robot) has attractive capability to navigate through narrow, off-road terrain. However, running crossing step-like obstacles creates challenges. This project presents a novel autonomous bikebot control with two assistive legs to navigate crossing obstacles. (see video above)
 
-- coordinate control of a manipulator on a bicycle robot control  <br /> 
+- coordinate control of a manipulator on a bicycle robot control 
 
-Bikebot manipulation has advantages of the single-track robot mobility and manipulation dexterity. We present a coordinated pose control of mobile manipulation with the stationary bikebot. A coordinated planning and control design is presented to determine the balance-prioritized posture control under kinematic and dynamic constraints. 
+We present a coordinated pose control of mobile manipulation with the stationary bikebot. A coordinated planning and control design is presented to determine the balance-prioritized posture control under kinematic and dynamic constraints. 
 
 
 <b> Learning-Based Motion Pattern Recogniztion and Control </b><br /> 
