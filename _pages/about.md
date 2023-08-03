@@ -66,6 +66,12 @@ gait/posture detection and prediction)
 
 <b> Ski-stunt Maneuvering Control of Racing Truck </b><br /> 
 
+
+
+
+<b> Cordinated Control of Mobile Robot </b><br /> 
+- autonomous bicycle robot control for crossing obstacles with impulsive actuation <br /> 
+
 <div class="auto-resizable-iframe">
   <div>
     <iframe frameborder="0" allowfullscreen="" src="https://www.youtube.com/embed/UNvMRVXNZ0U"></iframe>
@@ -74,8 +80,11 @@ gait/posture detection and prediction)
 <br /> 
 <div class='paper-box-text' markdown="1">
 
+As a single-track mobile platform, bikebot (i.e., bicycle-based robot) has attractive capability to navigate through narrow, off-road terrain with high speed. However, running crossing step-like obstacles creates challenges for intrinsically unstable, underactuated bikebots. This project presents a novel autonomous bikebot control with two assistive legs to navigate crossing obstacles. The proposed design integrates the external/internal convertible form-based motion control with leg-assisted impulse actuation. The leg–terrain interaction generates impulsive torques to help maintain navigation and balance when running across obstacles. The control performance is analyzed and guaranteed. The experimental results confirm that under the control design, the bikebot can smoothly run crossing multiple step-like obstacles with heights more than one-third of the wheel radius. (see video above)
 
-<b> Cordinated Control of Mobile Robot </b><br /> 
+- coordinate control of a manipulator on a bicycle robot control  <br /> 
+
+Bikebot manipulation has advantages of the single-track robot mobility and manipulation dexterity. We present a coordinated pose control of mobile manipulation with the stationary bikebot. The challenges of the bikebot manipulation include the limited steering balance capability of the unstable bikebot and kinematic redundancy of the manipulator. We first present the steering balance model to analyze and explore the maximum steering capability to balance the stationary platform. A balancing equilibrium manifold is then proposed to describe the necessary condition to fulfill simultaneous platform balance and posture control of the end-effector. A coordinated planning and control design is presented to determine the balance-prioritized posture control under kinematic and dynamic constraints. Extensive experiments are conducted to demonstrate the mechatronic design for autonomous plant inspection in agricultural applications. The results confirm the feasibility to use the bikebot manipulation for plant inspection with end-effector position and orientation errors about 5 mm and 0.3 degs, respectively.
 
 
 <b> Learning-Based Motion Pattern Recogniztion and Control </b><br /> 
@@ -135,6 +144,6 @@ Volume 55, Issue 37, pp. 376-381, 2022. <a href="https://www.sciencedirect.com/s
 # Professional Avtivities
 
 Reviewer for
-- Journals: IEEE Trans. on Automation Science and Engineering, IEEE Trans. on Control Systems Technology, IEEE/ASME Trans. on Mechatronics, IEEE Robotics and Automation Letters, em Control Engineering Practice, Mechatronics, Transportation Research Part C, International Journal of Intelligent Robotics and Applications,
+- Journals: IEEE Trans. on Automation Science and Engineering, IEEE Trans. on Control Systems Technology, IEEE/ASME Trans. on Mechatronics, IEEE Robotics and Automation Letters, Control Engineering Practice, Mechatronics, Transportation Research Part C, International Journal of Intelligent Robotics and Applications, IEEE Transa. on Human-Machine Systems, 
 
-- Conferences: American Control Conference (ACC), IEEE/ASME International Conference Advanced Intelligent Mechatronics (AIM), IEEE International Conference on Automation Science and Engineering (CASE), IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), IEEE International Conference on Intelligent Transportation Systems (ITSC), IEEE International Conference on Robotics and Automation (ICRA), IFAC World
+- Conferences: American Control Conference (ACC), IEEE/ASME International Conference Advanced Intelligent Mechatronics (AIM), IEEE International Conference on Automation Science and Engineering (CASE), IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), IEEE International Conference on Intelligent Transportation Systems (ITSC), IEEE International Conference on Robotics and Automation (ICRA), IFAC
