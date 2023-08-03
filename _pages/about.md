@@ -74,6 +74,16 @@ gait/posture detection and prediction)
 </div>
 
 
+
+
+
+
+<div class="auto-resizable-iframe">
+  <div>
+    <iframe frameborder="0" allowfullscreen="" src="https://www.youtube.com/embed/cyA_f5utthc"></iframe>
+  </div>
+</div>
+
 <b> Ski-stunt Maneuvering Control of Racing Truck </b>
 
 
@@ -94,11 +104,7 @@ gait/posture detection and prediction)
 - T. Zheng, F. Han, and J. Yi (2023) Design and Control of An Agricultural Robot for Turf Grass Inspection. 2023 Modeling, Estimation and Control Conference. (*Accepted*)
 
 
-<div class="auto-resizable-iframe">
-  <div>
-    <iframe frameborder="0" allowfullscreen="" src="https://www.youtube.com/embed/cyA_f5utthc"></iframe>
-  </div>
-</div>
+
 
 
 
