@@ -63,7 +63,9 @@ gait/posture detection and prediction)
 - C. Deng, Y. Gong, F. Han, S. Liao, J. Yi and B. Yuan, "VLSI Hardware Architecture for Gaussian Process," *2020 54th Asilomar Conference on Signals, Systems, and Computers*, Pacific Grove, CA, USA, 2020, pp. 121-124. <a href="https://ieeexplore.ieee.org/abstract/document/9443272"> Link</a>
 
 
-
+<div class="video-container">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/RcnksOUugcA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 
 <b> Ski-stunt Maneuvering Control of Racing Truck </b>
