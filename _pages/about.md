@@ -67,8 +67,10 @@ gait/posture detection and prediction)
 
 
 
-<div class="video640" type="application/x-shockwave-flash" value="https://www.youtube.com/embed/RcnksOUugcA">
-  <param name="movie" value="https://www.youtube.com/embed/RcnksOUugcA"></param>
+<div class="auto-resizable-iframe">
+  <div>
+    <iframe frameborder="0" allowfullscreen="" src="https://www.youtube.com/embed/RcnksOUugcA"></iframe>
+  </div>
 </div>
 
 
