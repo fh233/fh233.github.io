@@ -108,6 +108,10 @@ gait/posture detection and prediction)
 </div>
 
 
+<div class="video-container">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/cyA_f5utthc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 
 
 - F. Han, X. Huang, Z. Wang, J. Yi and T. Liu, "Autonomous Bikebot Control for Crossing Obstacles With Assistive Leg Impulsive Actuation," in IEEE/ASME Transactions on Mechatronics, vol. 27, no. 4, pp. 1882-1890, Aug. 2022. <a href="https://ieeexplore.ieee.org/abstract/document/9781431/"> Link</a>
