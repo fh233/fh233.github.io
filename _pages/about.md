@@ -62,7 +62,7 @@ gait/posture detection and prediction)
 # 📝 Projects 
 
 <b> Lenaring-based control for underactuatd balcne robots </b><br /> 
-
+For the uncertainites and modelling errors, a Gaussian Process based maching learning framewrok has been proposed to deal with modelling and contorl. The learning based method is integreated with EIC-based control for underactuated balance robots. Somultaneously we can achieve trajectorying tracking and balacne control.
 
 <b> Ski-stunt Maneuvering Control of Racing Truck </b><br /> 
 
@@ -91,6 +91,7 @@ We present a coordinated pose control of mobile manipulation with the stationary
 
 <b> Learning-Based Motion Pattern Recogniztion and Control </b><br /> 
 
+Using a recurrent neural network (RNN) with long short-term memory (LSTM) cells. to idenfity the human/animal gait and predict the poses in the real time with only IMU (Inertial Measurement Unit) measurement avaiable.
 
 
 
