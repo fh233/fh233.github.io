@@ -75,7 +75,7 @@ gait/posture detection and prediction)
 
 <div class="auto-resizable-iframe">
   <div>
-    <iframe frameborder="0" allowfullscreen="" src="https://www.youtube.com/embed/UNvMRVXNZ0U&ab"></iframe>
+    <iframe frameborder="0" allowfullscreen="" src="https://www.youtube.com/embed/UNvMRVXNZ0U"></iframe>
   </div>
 </div>
 <div class='paper-box-text' markdown="1">
