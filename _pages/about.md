@@ -48,6 +48,8 @@ gait/posture detection and prediction)
 
 
 # 🎖 Honors and Awards
+- *2023*, Best Transaction Paper of IEEE/ASME Transaction on Mechatronics (Finalist)
+
 - *2019*, Graduate Fellowship, Department of Mechanical and Aerospace Engineering, Rutgers.
 - *2017-2018*, Graduate Fellowship, Harbin Institute of Technology, 
 - *2017*, National Scholarship, Nanjing University of Aeronautics and Astronautics, 
