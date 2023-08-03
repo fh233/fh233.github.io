@@ -106,7 +106,6 @@ gait/posture detection and prediction)
     <iframe frameborder="0" allowfullscreen="" src="https://www.youtube.com/embed/cyA_f5utthc"></iframe>
   </div>
 </div>
-<div class='paper-box-text' markdown="1">
 
 
 
