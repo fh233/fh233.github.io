@@ -20,7 +20,7 @@ redirect_from:
 # Greetings!
 This is Feng. I am currently a graduate student at Rutgers, The State University of New Jersey. My research interest includes dynamics, control and machine learning and its application in robotics. I am conbining the maching learning-based tools for robotics motion planning and control. I have been working on autonomous bicycle, mobile manipulation, agile maneuvering control and other underactuated balancing robots. 
 
-# 📖 Educations
+# Educations
 
 - Ph. D., Mechanical Engineering, Rutgers University September, 2019-Now
 - M. S., Aerospace Engineering, Harbin Institute of Technology (China), June 2019
@@ -47,7 +47,7 @@ gait/posture detection and prediction)
 
 
 
-# 🎖 Honors and Awards
+# Awards
 
 
 <div>
