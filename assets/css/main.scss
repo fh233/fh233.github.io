@@ -41,6 +41,7 @@
 @import "print";
 
 
+
 .paper-box {
     display: flex;
     justify-content: left;
@@ -57,7 +58,7 @@
         width: 100%;
         order: 2;
         img {
-            max-width: 400;
+            max-width: 400px;
             box-shadow: 3px 3px 6px #888;
             object-fit: cover;
         }
@@ -110,7 +111,7 @@ h1:before, .anchor:before {
 }
 
 .auto-resizable-iframe {
-    max-width: 200px;
+    max-width: 800;
     margin: 0px auto;
   }
   
