@@ -20,10 +20,8 @@ redirect_from:
 # Greetings!
 This is Feng. Feng is currently a graduate student at Rutgers, The State University of New Jersey, since 2019. His research interest includes dynamics, control and machine learning and its application in robotics. Feng has been working on autonomous bicycle, mobile manipulation, agile maneuvering control and other underactuated balancing robots. 
 
+# 📖 Educations
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 
 # Research Interests
@@ -38,17 +36,21 @@ gait/posture detection and prediction)
 
 
 
-# 🎖 Honors and Awards
-- *2019*, Graduate Fellowship, Department of Mechanical and Aerospace Engineering, Rutgers.
-- *2017-2018*, Graduate Fellowship, Harbin Institute of Technology, 
-- *2017*, National Scholarship, Nanjing University of Aeronautics and Astronautics, 
-- *2013-2017*, Outsdanding students fellowship, Nanjing University of Aeronautics and Astronautics
+
 
 
 # Teaching Experience
 - MAE 401: Dynamics Systems and Control (*Summer 2020, 2021, 2022*), Instructor
 - MAE 361: Introduction to Mechatronics Lab (*Fall 2022, Spring 2023*), Instructor
 - MAE 365: Dynamics (*Fall 2021*), Teaching Assistant
+
+
+
+# 🎖 Honors and Awards
+- *2019*, Graduate Fellowship, Department of Mechanical and Aerospace Engineering, Rutgers.
+- *2017-2018*, Graduate Fellowship, Harbin Institute of Technology, 
+- *2017*, National Scholarship, Nanjing University of Aeronautics and Astronautics, 
+- *2013-2017*, Outsdanding students fellowship, Nanjing University of Aeronautics and Astronautics
 
 
 
@@ -65,9 +67,9 @@ gait/posture detection and prediction)
 
 
 
-<object class="video640" type="application/x-shockwave-flash" value="https://www.youtube.com/embed/RcnksOUugcA">
+<div class="video640" type="application/x-shockwave-flash" value="https://www.youtube.com/embed/RcnksOUugcA">
   <param name="movie" value="https://www.youtube.com/embed/RcnksOUugcA"></param>
-</object>
+</div>
 
 
 <b> Ski-stunt Maneuvering Control of Racing Truck </b>
@@ -125,11 +127,10 @@ Volume 55, Issue 37, pp. 376-381, 2022. <a href="https://www.sciencedirect.com/s
 
 
 
-# 📖 Educations
 
 
 
-# PROFESSIONAL ACTIVITIES
+# Professional Avtivities
 
 Reviewer for
 - Journals: IEEE Trans. on Automation Science and Engineering, IEEE Trans. on Control Systems Technology, IEEE/ASME Trans. on Mechatronics, IEEE Robotics and Automation Letters, em Control Engineering Practice, Mechatronics, Transportation Research Part C, International Journal of Intelligent Robotics and Applications,
