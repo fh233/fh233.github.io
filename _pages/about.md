@@ -152,6 +152,11 @@ Volume 55, Issue 37, pp. 376-381, 2022. <a href="https://www.sciencedirect.com/s
 
 - Conferences: American Control Conference (ACC), IEEE/ASME International Conference Advanced Intelligent Mechatronics (AIM), IEEE International Conference on Automation Science and Engineering (CASE), IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), IEEE International Conference on Intelligent Transportation Systems (ITSC), IEEE International Conference on Robotics and Automation (ICRA), IFAC
 
-<b> Graduate Student Member of </b>
-American Society of Mechanical Engineers (ASME),  Institute of Electrical and Electronics Engineers (IEEE)
+<b> Graduate Student Member of </b> <br /> 
+American Society of Mechanical Engineers (ASME),  Institute of Electrical and Electronics Engineers (IEEE) 
  
+# Intrests and Hobbies 
+
+- Cooking
+- Travel
+- Phtographa, see my photo gallery  <a href="https://feltonhan.github.io"> see my photo gallery</a> <br /> <br /> 
