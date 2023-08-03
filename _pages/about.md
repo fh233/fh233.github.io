@@ -82,7 +82,15 @@ For the uncertainites and modelling errors, a Gaussian Process based maching lea
 <b> Cordinated Control of Mobile Robot </b><br /> 
 - autonomous bicycle robot control for crossing obstacles with impulsive actuation
 
-As a single-track mobile platform, bikebot (i.e., bicycle-based robot) has attractive capability to navigate through narrow, off-road terrain. However, running crossing step-like obstacles creates challenges. This project presents a novel autonomous bikebot control with two assistive legs to navigate crossing obstacles. <a href="https://www.youtube.com/watch?v=cyA_f5utthc&ab_channel=FengHan"> Video</a>
+<div class="auto-resizable-iframe">
+  <div>
+    <iframe frameborder="0" allowfullscreen="" src="https://www.youtube.com/embed/cyA_f5utthc"></iframe>
+  </div>
+</div>
+<br /> 
+<div class='paper-box-text' markdown="1">
+
+As a single-track mobile platform, bikebot (i.e., bicycle-based robot) has attractive capability to navigate through narrow, off-road terrain. However, running crossing step-like obstacles creates challenges. This project presents a novel autonomous bikebot control with two assistive legs to navigate crossing obstacles. (see the video abvoe)
 
 - coordinate control of a manipulator on a bicycle robot control 
 
