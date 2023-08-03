@@ -64,7 +64,7 @@ gait/posture detection and prediction)
 
 
 <div class="video-container">
-    <iframe width="16" height="9" src="https://www.youtube.com/embed/RcnksOUugcA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe  src="https://www.youtube.com/embed/RcnksOUugcA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 
