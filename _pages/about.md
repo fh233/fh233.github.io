@@ -50,12 +50,13 @@ gait/posture detection and prediction)
 # 🎖 Honors and Awards
 
 <figure>
-    <img  src='images/award.jpg' alt='missing' width= "300" class="center"/>
+    <img  src='images/award.jpg' alt='sym' width= "300" class="center"/>
     <figcaption>Award Ceneramy on at 2023 IEEE/ASME AIM Conference, Seattle, WA</figcaption>
 </figure>
 
 
-<p><img src='images/award.jpg' alt="sym" width="800" class="center"><br /><p>
+
+
 - *2023*, Best Transaction Paper of IEEE/ASME Transaction on Mechatronics (Finalist)
 
 - *2019*, Graduate Fellowship, Department of Mechanical and Aerospace Engineering, Rutgers.
