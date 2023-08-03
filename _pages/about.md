@@ -75,7 +75,7 @@ For the uncertainites and modelling errors, a Gaussian Process based maching lea
 <br /> 
 <div class='paper-box-text' markdown="1">
 
--A ski-stunt maneuver is a type of aggressive vehicle motions in which a four-wheel vehicle runs on two wheels on one side.  We present the safety-guaranteed motion control of  autonomous ski-stunt maneuvers. (see the video abvoe)
+A ski-stunt maneuver is a type of aggressive vehicle motions in which a four-wheel vehicle runs on two wheels on one side.  We present the safety-guaranteed motion control of  autonomous ski-stunt maneuvers. (see the video abvoe)
 
 
 
@@ -110,12 +110,12 @@ Using a recurrent neural network (RNN) with long short-term memory (LSTM) cells.
 
 - F. Han, and J. Yi, Safe Motion Control of Autonomous Vehicle Ski-Stunt Maneuvers. IEEE/ASME Trans. on Mechatronics, 2023. (*Under Review*)
 
-- P. Wang, F. Han, and Yi, Jingang, "Gyroscopic Balancer-Enhanced Motion Control Of An Autonomous Bikebot," in Journal of Dynamic Systems, Measurement, and Control, pp. 1-15, 2023. <a href="https://asmedigitalcollection.asme.org/dynamicsystems/article/doi/10.1115/1.4063014/1164571"> Link</a>
+- P. Wang, F. Han, and Yi, Jingang, "Gyroscopic Balancer-Enhanced Motion Control Of An Autonomous Bikebot," in *Journal of Dynamic Systems, Measurement, and Control*, pp. 1-15, 2023. <a href="https://asmedigitalcollection.asme.org/dynamicsystems/article/doi/10.1115/1.4063014/1164571"> Link</a>
 
 
-- F. Han, X. Huang, Z. Wang, J. Yi and T. Liu, "Autonomous Bikebot Control for Crossing Obstacles With Assistive Leg Impulsive Actuation," in IEEE/ASME Transactions on Mechatronics, vol. 27, no. 4, pp. 1882-1890, Aug. 2022. <a href="https://ieeexplore.ieee.org/abstract/document/9781431/"> Link</a>
+- F. Han, X. Huang, Z. Wang, J. Yi and T. Liu, "Autonomous Bikebot Control for Crossing Obstacles With Assistive Leg Impulsive Actuation," in *IEEE/ASME Transactions on Mechatronics*, vol. 27, no. 4, pp. 1882-1890, Aug. 2022. <a href="https://ieeexplore.ieee.org/abstract/document/9781431/"> Link</a>
 
-- F. Han, A. Jelvani, J. Yi and T. Liu, "Coordinated Pose Control of Mobile Manipulation With an Unstable Bikebot Platform," in IEEE/ASME Transactions on Mechatronics, vol. 27, no. 6, pp. 4550-4560, Dec. 2022. <a href="https://ieeexplore.ieee.org/abstract/document/9750394/"> Link</a>
+- F. Han, A. Jelvani, J. Yi and T. Liu, "Coordinated Pose Control of Mobile Manipulation With an Unstable Bikebot Platform," in <b>IEEE/ASME Transactions on Mechatronics<b>, vol. 27, no. 6, pp. 4550-4560, Dec. 2022. <a href="https://ieeexplore.ieee.org/abstract/document/9750394/"> Link</a>
 
 
 - F. Han and J. Yi, "Stable Learning-Based Tracking Control of Underactuated Balance Robots," in *IEEE Robotics and Automation Letters*, vol. 6, no. 2, pp. 1543-1550, April 2021. <a href="https://ieeexplore.ieee.org/abstract/document/9345449/"> Link</a>
