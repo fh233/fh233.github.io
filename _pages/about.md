@@ -48,6 +48,12 @@ gait/posture detection and prediction)
 
 
 # 🎖 Honors and Awards
+
+<figure>
+    <img width= 300 src='award.jpg' alt='missing' />
+    <figcaption>Caption goes here</figcaption>
+</figure>
+
 - *2023*, Best Transaction Paper of IEEE/ASME Transaction on Mechatronics (Finalist)
 
 - *2019*, Graduate Fellowship, Department of Mechanical and Aerospace Engineering, Rutgers.
