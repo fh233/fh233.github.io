@@ -18,13 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # Greetings!
-This is Feng. I am currently a graduate student at Rutgers, The State University of New Jersey. My research interest includes dynamics, control and machine learning and its application in robotics. I am conbining the maching learning-based tools for robotics motion planning and control. I have been working on autonomous bicycle, mobile manipulation, agile maneuvering control and other underactuated balancing robots. 
-
-# Educations
-
-- Ph. D., Mechanical Engineering, Rutgers University September, 2019-Now
-- M. S., Aerospace Engineering, Harbin Institute of Technology (China), June 2019
-- B. S., Aerospace Engineering, Nanjing University of Aeronautics and Astronautics (China), June 2017
+This is Feng. I am currently a graduate student at Rutgers, The State University of New Jersey. My research interest includes dynamics, control, and machine learning and their application in robotics. My research combines machine learning-based tools for robotics motion planning and control. I have been working on autonomous bicycles, mobile manipulation, agile maneuvering control, and other underactuated balancing robots.
 
 
 # Research Interests
@@ -33,9 +27,7 @@ This is Feng. I am currently a graduate student at Rutgers, The State University
 
 - Dynamic systems and control (machine learning-based modeling and control, nonlinear control system design,  design and control of mechatronic systems)
 
-- Learning-based sensor fusion and posture analysis
-(learning-based sensor data analysis and modeling, 
-gait/posture detection and prediction)
+- Learning-based sensor fusion and posture analysis (learning-based sensor data analysis and modeling, gait/posture detection and prediction)
 
 
 # Teaching Experience
@@ -69,7 +61,8 @@ gait/posture detection and prediction)
 # 📝 Projects 
 
 <b> 1. Lenaring-based control for underactuatd balcne robots </b><br /> 
-For the uncertainites and modelling errors, a Gaussian Process based maching learning framewrok has been proposed to deal with modelling and contorl. The learning based method is integreated with EIC-based control for underactuated balance robots. Somultaneously we can achieve trajectorying tracking and balacne control.
+For the uncertainties and modeling errors, a Gaussian Process based machine learning framework has been proposed to deal with modeling and control. The learning based method is integrated with EIC-based control for underactuated balance robots. Simultaneously we can achieve trajectory tracking and balance control. 
+
 
 <b> 2. Ski-stunt Maneuvering Control of Racing Truck </b><br /> 
 
@@ -82,8 +75,7 @@ For the uncertainites and modelling errors, a Gaussian Process based maching lea
 <br /> 
 <div class='paper-box-text' markdown="1">
 
-A ski-stunt maneuver is a type of aggressive vehicle motions in which a four-wheel vehicle runs on two wheels on one side.  We present the safety-guaranteed motion control of  autonomous ski-stunt maneuvers. (see the video abvoe)
-
+A ski-stunt maneuver is a type of aggressive vehicle motion in which a four-wheel vehicle runs on two wheels on one side.  We present the safety-guaranteed motion control of autonomous ski-stunt maneuvers. (see the video above)
 
 
 <b> 3. Cordinated Control of Mobile Robot </b><br /> 
@@ -97,7 +89,7 @@ A ski-stunt maneuver is a type of aggressive vehicle motions in which a four-whe
 <br /> 
 <div class='paper-box-text' markdown="1">
 
-As a single-track mobile platform, bikebot (i.e., bicycle-based robot) has attractive capability to navigate through narrow, off-road terrain. However, running crossing step-like obstacles creates challenges. This project presents a novel autonomous bikebot control with two assistive legs to navigate crossing obstacles. (see the video abvoe)
+As a single-track mobile platform, bikebot (i.e., bicycle-based robot) has attractive capability to navigate through narrow, off-road terrain. However, running crossing step-like obstacles creates challenges. This project presents a novel autonomous bikebot control with two assistive legs to navigate crossing obstacles. (see the video above)
 
 - coordinate control of a manipulator on a bicycle robot control 
 
@@ -106,7 +98,7 @@ We present a coordinated pose control of mobile manipulation with the stationary
 
 <b> 4. Learning-Based Motion Pattern Recogniztion and Control </b><br /> 
 
-Using a recurrent neural network (RNN) with long short-term memory (LSTM) cells. to idenfity the human/animal gait and predict the poses in the real time with only IMU (Inertial Measurement Unit) measurement avaiable.
+Using a recurrent neural network (RNN) with long short-term memory (LSTM) cells to idenfity human/animal gait and predict the poses in the real time with only IMU (Inertial Measurement Unit) measurement avaiable.
 
 
 
@@ -170,4 +162,4 @@ American Society of Mechanical Engineers (ASME),  Institute of Electrical and El
 
 - Cooking
 - Travel
-- Phtographa, see my photo gallery  <a href="https://feltonhan.github.io"> see my photo gallery</a> <br /> <br /> 
+- Phtographa,  <a href="https://feltonhan.github.io"> see my photo gallery</a> <br /> <br /> 
